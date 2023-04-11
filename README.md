@@ -19,3 +19,6 @@ The ShortenStringArray method takes an input array of strings, loops over each s
 
 ## License
 This program is licensed under the MIT License. Feel free to use, modify, and distribute this program for any purpose.
+
+## Technical changes to make 4 commits to comply with excersise 5
+commit 2
